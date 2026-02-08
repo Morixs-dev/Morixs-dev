@@ -48,7 +48,6 @@ Outside of coding, I’m a **bodybuilder**, which strongly influences my discipl
 
 [![](https://visitcount.itsvg.in/api?id=Morixs-dev\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
----
 
 ### 🛠 Featured Project: **Formify**
 
@@ -61,7 +60,3 @@ Outside of coding, I’m a **bodybuilder**, which strongly influences my discipl
 Status: **Active development**
 
 ---
-
-
----
-
