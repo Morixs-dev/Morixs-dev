@@ -1,92 +1,94 @@
-👋 Hi, I’m Shahrokh
+# 👋 Hi, I’m Shahrokh
 
-I’m a 19-year-old Iranian developer working with Python and HTML/CSS/JavaScript, currently learning Flutter (Dart) to build useful, high-performance, multi-platform applications.
+I’m a **۱۹-year-old Iranian developer** working with **Python** and **HTML/CSS/JavaScript**, currently learning **Flutter (Dart)** to build **useful, high-performance, multi-platform applications**.
 
 I’m focused on growth — technically, professionally, and personally.
 
-🚀 Current Projects
-Formify
+---
 
-A completely free, local Windows application designed to:
+## 🚀 Current Projects
 
-Convert file formats
+### **Formify**
 
-Change file size
+A **completely free, local Windows application** designed to:
 
-Adjust file quality
+* Convert file formats
+* Change file size
+* Adjust file quality
 
 Built with performance and simplicity in mind.
-No accounts, no cloud, no tracking — fully offline.
+*No accounts, no cloud, no tracking — fully offline.*
 
-Status: Active development
+> Status: **Active development**
 
-🌐 Website
+---
+
+## 🌐 Website
 
 I have a personal website available at:
-🔗 https://morixs.ir
+🔗 **[https://morixs.ir](https://morixs.ir)**
 
-The website is currently in Beta, and I’m actively improving and completing it.
+The website is currently in **Beta**, and I’m actively improving and completing it.
 
-🛠 Tech Stack
+---
 
-Languages
+## 🛠 Tech Stack
 
-Python
+**Languages**
 
-HTML / CSS / JavaScript
+* Python
+* HTML / CSS / JavaScript
+* Dart (learning)
 
-Dart (learning)
+**Focus Areas**
 
-Focus Areas
+* Desktop applications
+* Performance-oriented tools
+* Cross-platform app development (Flutter)
 
-Desktop applications
+---
 
-Performance-oriented tools
+## 📚 Currently Learning
 
-Cross-platform app development (Flutter)
+* Flutter & Dart
+* Multi-platform app architecture
+* Writing cleaner, faster, and more maintainable code
 
-📚 Currently Learning
+---
 
-Flutter & Dart
+## 🎯 Goals
 
-Multi-platform app architecture
+* Master Flutter for production-ready apps
+* Build practical tools that solve real problems
+* Relocate to a foreign country with better access to technology, tools, and learning resources
+* Grow as an independent developer
 
-Writing cleaner, faster, and more maintainable code
+---
 
-🎯 Goals
+## 🧠 Mindset
 
-Master Flutter for production-ready apps
+I’m also a **bodybuilder**, which shapes how I work:
 
-Build practical tools that solve real problems
-
-Relocate to a foreign country with better access to technology, tools, and learning resources
-
-Grow as an independent developer
-
-🧠 Mindset
-
-I’m also a bodybuilder, which shapes how I work:
-
-Discipline
-
-Consistency
-
-Long-term thinking
+* Discipline
+* Consistency
+* Long-term thinking
 
 The same mindset applies to my coding journey.
 
-🤝 Collaboration
+---
+
+## 🤝 Collaboration
 
 Open to collaboration on:
 
-Practical tools
+* Practical tools
+* Desktop or Flutter projects
+* Learning-focused or experimental ideas
 
-Desktop or Flutter projects
+---
 
-Learning-focused or experimental ideas
+## 📫 Contact
 
-📫 Contact
-
-Website: https://morixs.ir
-
-GitHub: You’re already here 🙂
+* Website: [https://morixs.ir](https://morixs.ir)
+* GitHub: You’re already here 🙂
+* 
