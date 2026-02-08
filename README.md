@@ -1,94 +1,67 @@
-# 👋 Hi, I’m Shahrokh
+# 💫 About Me:
 
-I’m a **۱۹-year-old Iranian developer** working with **Python** and **HTML/CSS/JavaScript**, currently learning **Flutter (Dart)** to build **useful, high-performance, multi-platform applications**.
-
-I’m focused on growth — technically, professionally, and personally.
-
----
-
-## 🚀 Current Projects
-
-### **Formify**
-
-A **completely free, local Windows application** designed to:
-
-* Convert file formats
-* Change file size
-* Adjust file quality
-
-Built with performance and simplicity in mind.
-*No accounts, no cloud, no tracking — fully offline.*
-
-> Status: **Active development**
+Hi, I’m **Shahrokh**, a **19-year-old Iranian developer** passionate about building **practical, high-performance software**.<br>
+I work mainly with **Python** and **HTML / CSS / JavaScript**, and I’m currently learning **Flutter (Dart)** to create **fast, multi-platform applications**.<br><br>
+I’m actively working on **Formify**, a free and fully local Windows app, while also developing my personal website.<br>
+I’m focused on long-term growth — better skills, better tools, and better opportunities.<br>
+Outside of coding, I’m a **bodybuilder**, which strongly influences my discipline, consistency, and mindset.
 
 ---
 
-## 🌐 Website
+## 🌐 Socials:
 
-I have a personal website available at:
-🔗 **[https://morixs.ir](https://morixs.ir)**
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:support@morixs.ir)
 
-The website is currently in **Beta**, and I’m actively improving and completing it.
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-
-* Python
-* HTML / CSS / JavaScript
-* Dart (learning)
-
-**Focus Areas**
-
-* Desktop applications
-* Performance-oriented tools
-* Cross-platform app development (Flutter)
+[![Website](https://img.shields.io/badge/Website-000000?logo=google-chrome\&logoColor=white)](https://morixs.ir)
 
 ---
 
-## 📚 Currently Learning
+# 💻 Tech Stack:
 
-* Flutter & Dart
-* Multi-platform app architecture
-* Writing cleaner, faster, and more maintainable code
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat\&logo=css3\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat\&logo=python\&logoColor=ffdd54) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat\&logo=Flutter\&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat\&logo=dart\&logoColor=white) 
+  
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Morixs-dev\&theme=dark\&hide_border=true\&include_all_commits=false\&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Morixs-dev\&theme=dark\&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Morixs-dev\&theme=dark\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
 
-## 🎯 Goals
+### ✍️ Random Dev Quote
 
-* Master Flutter for production-ready apps
-* Build practical tools that solve real problems
-* Relocate to a foreign country with better access to technology, tools, and learning resources
-* Grow as an independent developer
+![](https://quotes-github-readme.vercel.app/api?type=vetical\&theme=dark)
 
 ---
 
-## 🧠 Mindset
+### 🔝 Top Contributed Repo
 
-I’m also a **bodybuilder**, which shapes how I work:
-
-* Discipline
-* Consistency
-* Long-term thinking
-
-The same mindset applies to my coding journey.
+![](https://github-contributor-stats.vercel.app/api?username=Morixs-dev\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
 ---
 
-## 🤝 Collaboration
-
-Open to collaboration on:
-
-* Practical tools
-* Desktop or Flutter projects
-* Learning-focused or experimental ideas
+[![](https://visitcount.itsvg.in/api?id=Morixs-dev\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
 ---
 
-## 📫 Contact
+### 🛠 Featured Project: **Formify**
 
-* Website: [https://morixs.ir](https://morixs.ir)
-* GitHub: You’re already here 🙂
-* 
+* Free & fully **offline Windows application**
+* Converts file formats
+* Changes file size & quality
+* Built with performance and simplicity in mind
+* No cloud, no tracking, no accounts
+
+Status: **Active development**
+
+---
+
+
+---
+
