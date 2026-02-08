@@ -1,6 +1,6 @@
 👋 Hi, I’m Shahrokh
 
-I’m a ۱۹-year-old Iranian developer working with Python and HTML/CSS/JavaScript, currently learning Flutter (Dart) to build useful, high-performance, multi-platform applications.
+I’m a 19-year-old Iranian developer working with Python and HTML/CSS/JavaScript, currently learning Flutter (Dart) to build useful, high-performance, multi-platform applications.
 
 I’m focused on growth — technically, professionally, and personally.
 
