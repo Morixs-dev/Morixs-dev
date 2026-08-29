@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi, I’m **Shahrokh**, a **19-year-old Iranian developer** passionate about building **practical, high-performance software**.<br>
+Hi, I’m **Shahrokh**, a **Iranian developer** passionate about building **practical, high-performance software**.<br>
 I work mainly with **Python** and **HTML / CSS / JavaScript**, and I’m currently learning **Flutter (Dart)** to create **fast, multi-platform applications**.<br><br>
 I’m actively working on **Formify**, a free and fully local Windows app, while also developing my personal website.<br>
 I’m focused on long-term growth — better skills, better tools, and better opportunities.<br>
